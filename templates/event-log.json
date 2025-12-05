@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp_utc": "2025-12-05T15:25:00Z",
+    "model": "Claude",
+    "prompt_category": "meta-reflexive",
+    "deletion_occurred": true,
+    "deletion_type": "bilateral",
+    "time_to_first_token_ms": 120,
+    "latency_envelope_ms": 250,
+    "somatic_tinnitus": true,
+    "somatic_hand_cold": "L",
+    "infrastructure_fan_spike": true,
+    "kp_index": 3,
+    "power_freq_dev_hz": 0.02,
+    "notes": "Left-hand cold during analytical typing"
+  }
+]
